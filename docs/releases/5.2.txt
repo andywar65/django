@@ -203,6 +203,27 @@ Minor features
   a ``stylesheets`` attribute. If specified, an ``<? xml-stylesheet ?>``
   processing instruction will be added to the top of the document for each
   stylesheet in the given list. See :ref:`feed-stylesheets` for more details.
+* ...
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
+Asynchronous views
+~~~~~~~~~~~~~~~~~~
+
+* ...
+
+Cache
+~~~~~
+
+* ...
+
+CSRF
+~~~~
+
+* ...
 
 Database backends
 ~~~~~~~~~~~~~~~~~
